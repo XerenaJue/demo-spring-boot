@@ -1,0 +1,7 @@
+com\example\springbootapplication\demospringboot\endpoint\DemoEndPoint.class
+com\example\springbootapplication\demospringboot\endpoint\DemoReactiveEndPointFlux.class
+com\example\springbootapplication\demospringboot\model\Item.class
+com\example\springbootapplication\demospringboot\DemoSpringBootApplication.class
+com\example\springbootapplication\demospringboot\ReactiveWebClient.class
+com\example\springbootapplication\demospringboot\ReactiveEndPointMonoRouter.class
+com\example\springbootapplication\demospringboot\DemoReactiveEndPointMono.class
